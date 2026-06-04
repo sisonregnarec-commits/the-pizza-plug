@@ -1,0 +1,6 @@
+{
+  "name": "The Pizza Plug",
+  "description": "An immersive, interactive hero section for The Pizza Plug, featuring customizable reservation booking controls, a sleek woodfire aesthetic, and a modern neon red glassmorphic design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
